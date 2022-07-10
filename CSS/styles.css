@@ -293,7 +293,7 @@ img {
 /* Hero Section */
 #hero {
 
-    background-image: url(/img/joss.jpeg);
+    background-image: url(./img/joss.jpeg);
     background-size: cover;
     background-position: top center;
     position: relative;
